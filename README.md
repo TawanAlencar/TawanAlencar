@@ -21,7 +21,7 @@
 </div>
 
 ###
- ![Snake animation](https://github.com/TawanAlencar/TawanAlencar/blob/output/github-contribution-grid-snake.svg)
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/TawanAlencar/count.svg?"  />
 </div>
