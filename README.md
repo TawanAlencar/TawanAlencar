@@ -1,4 +1,4 @@
-<h1 align="left">Desenvolvedor FrontEnd</h1>
+<h1 align="left">Desenvolvedor Fullstack</h1>
 
 ###
 
@@ -11,6 +11,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
 </div>
 
 ###
@@ -28,4 +31,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/TawanAlencar/TawanAlencar/blob/output/snake.svg" alt="Snake animation" />
 
+###
